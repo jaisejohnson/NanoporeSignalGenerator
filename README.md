@@ -1,1 +1,1 @@
-This repository is still being populated. 
+This repository is still being populated. The code for the Nanopore Signal Simulator GUI is available as a single .py file. Dataset generator fot Machine Learning applications and detailed documentation will be added in the coming weeks.
